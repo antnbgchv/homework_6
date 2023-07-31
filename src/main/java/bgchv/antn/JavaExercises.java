@@ -1,6 +1,6 @@
 package bgchv.antn;
 
-public class javaExercises {
+public class JavaExercises {
 
     public static void main(String[] args) {
         int a = 1;
